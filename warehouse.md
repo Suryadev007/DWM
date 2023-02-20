@@ -1,4 +1,4 @@
-#Ind Vs Aus Ist Match 
+# Ind Vs Aus Ist Match 
 
 Eighty-seven minutes of madness was all it took for Australia's promising hopes of reclaiming the Border Gavaskar Trophy to turn to dust in Delhi.
 
